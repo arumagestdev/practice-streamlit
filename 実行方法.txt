@@ -1,0 +1,12 @@
+
+# streamlitのインストール
+$ pip install streamlit
+
+
+# 実行方法
+# コマンドプロンプトを開きmain.pyのディレクトリへ移動
+$ cd streamlit基礎
+
+# ファイルの実行
+$ streamlit run main.py
+
